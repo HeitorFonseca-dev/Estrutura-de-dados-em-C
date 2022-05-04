@@ -74,7 +74,7 @@ else {
 
 printf("              OOOOOOOOOOO               \n");
 printf("          OOOOOOOOOOOOOOOOOOO           \n");
- printf("      OOOOOO  OOOOOOOOO  OOOOOO        \n");
+printf("      OOOOOO  OOOOOOOOO  OOOOOO        \n");
 printf("     OOOOOO      OOOOO      OOOOOO      \n");
 printf("   OOOOOOOO  #   OOOOO  #   OOOOOOOO    \n");
 printf("  OOOOOOOOOO    OOOOOOO    OOOOOOOOOO   \n");
@@ -90,9 +90,9 @@ printf("              OOOOOOOOOOOO              \n");
 printf ("\n\n");
 
 
-    printf ("Voce venceu !!!\n");
-    printf ("Total de pontos %.2f\n",pontos);
-    printf ("Voce acertou em %d tentativas\n", tentativas);
+printf ("Voce venceu !!!\n");
+printf ("Total de pontos %.2f\n",pontos);
+printf ("Voce acertou em %d tentativas\n", tentativas);
 
  }else {
     printf ("Voce perdeu!!! Tente novamente\n");
@@ -103,12 +103,5 @@ printf("      /_( \\__/ )_\\       \n");
 printf("         \\__U_/           \n");
  }
 
-
-
-
-
-
-
-
-    return 0;
+return 0;
     }
